@@ -1,7 +1,8 @@
 # Poradnik
 
 > [!NOTE]
-> Fork poradnika zmodyfikowany i uaktualniony przez Filipa SP5FLS w marcu 2025.
+> Fork poradnika kolegi SP5EXT, zmodyfikowany i uaktualniony przez Filipa SP5FLS w marcu 2025.
+> Zachęcam do aktualizacji!
 
 - [Poradnik](#poradnik)
   - [Dwa słowa wstępu](#dwa-słowa-wstępu)
