@@ -7,10 +7,10 @@
     - [1. Zapisz się na egzamin](#1-zapisz-się-na-egzamin)
     - [2. Podstawy hobby radiowego](#2-podstawy-hobby-radiowego)
     - [3. Testy](#3-testy)
-      - [Moje pro-tipy | filipsPL](#moje-pro-tipy--filipspl)
+      - [Moje pro-tipy | SP5FLS](#moje-pro-tipy--SP5FLS)
     - [4. Część ustna egzaminu - literowanie i kody Q](#4-część-ustna-egzaminu---literowanie-i-kody-q)
   - [Przebieg egzaminu - relacja](#przebieg-egzaminu---relacja)
-    - [2025.03 UKE Warszawa | filipsPL](#202503-uke-warszawa--filipspl)
+    - [2025.03 UKE Warszawa | SP5FLS](#202503-uke-warszawa--SP5FLS)
     - [2024 UKE Warszawa | relacja znaleziona w internecie](#2024-uke-warszawa--relacja-znaleziona-w-internecie)
   - [Podsumowanie](#podsumowanie)
     - [Podziękowania](#podziękowania)
@@ -85,7 +85,7 @@ Część testowa egzaminu zawiera 20 pytań podzielonych na 4 sekcje. Aby zdać 
 - Czas egzaminu to 20 minut, ale dobrze przygotowana osoba odpowiada na wszystkie pytania w 2 minuty.
 
 
-#### Moje pro-tipy | filipsPL
+#### Moje pro-tipy | SP5FLS
 
 > [!TIP]
 
@@ -158,7 +158,7 @@ Możesz też spojrzeć na [kalendarz zawodów KF](https://sp9cxn.pzk.pl/kalendar
 
 ## Przebieg egzaminu - relacja
 
-### 2025.03 UKE Warszawa | filipsPL
+### 2025.03 UKE Warszawa | SP5FLS
 
 > [!TIP]
 > Zdawałem egzamin w marcu 2025 w UKE w Warszawie
