@@ -1,5 +1,8 @@
 # Poradnik
 
+> [!NOTE]
+> Fork poradnika zmodyfikowany i uaktualniony przez Filipa SP5FLS w marcu 2025.
+
 - [Poradnik](#poradnik)
   - [Dwa słowa wstępu](#dwa-słowa-wstępu)
     - [Ile czasu potrzebuję na naukę?](#ile-czasu-potrzebuję-na-naukę)
@@ -7,10 +10,10 @@
     - [1. Zapisz się na egzamin](#1-zapisz-się-na-egzamin)
     - [2. Podstawy hobby radiowego](#2-podstawy-hobby-radiowego)
     - [3. Testy](#3-testy)
-      - [Moje pro-tipy | SP5FLS](#moje-pro-tipy--SP5FLS)
+      - [Moje pro-tipy | SP5FLS](#moje-pro-tipy--sp5fls)
     - [4. Część ustna egzaminu - literowanie i kody Q](#4-część-ustna-egzaminu---literowanie-i-kody-q)
   - [Przebieg egzaminu - relacja](#przebieg-egzaminu---relacja)
-    - [2025.03 UKE Warszawa | SP5FLS](#202503-uke-warszawa--SP5FLS)
+    - [2025.03 UKE Warszawa | SP5FLS](#202503-uke-warszawa--sp5fls)
     - [2024 UKE Warszawa | relacja znaleziona w internecie](#2024-uke-warszawa--relacja-znaleziona-w-internecie)
   - [Podsumowanie](#podsumowanie)
     - [Podziękowania](#podziękowania)
@@ -88,6 +91,7 @@ Część testowa egzaminu zawiera 20 pytań podzielonych na 4 sekcje. Aby zdać 
 #### Moje pro-tipy | SP5FLS
 
 > [!TIP]
+> tl;dr robić testy
 
 - robić testy
 - robić testy
@@ -144,7 +148,7 @@ Alternatywnym sposobem nauki jest literowanie tablic rejestracyjnych mijanych po
 
 Kody służą przyśpieszeniu i ułatwieniu komunikacji. Niestety, tu nie ma że boli. Są kody, które są stosowane bardzo często (QSO, QTH, QSY), jak i te bardzo rzadkie. Rzucając okiem na zestawy dostępne podczas mojego egzaminu miałem wrażenie, że komisja wybrała raczej te popularniejsze pozycje, ale nie mogę tego zagwarantować.
 
-**Jak się nauczyć -** w większości kodów Q nie ma zbyt wiele logiki i schematów. Na początku o tym nie wiedziałem i próbowałem te schematy znaleźć, rozpisując je w zeszycie i kreśląc połączenia, porównania. Myślę, że to mi najbardziej pomogło w nauce :) 
+**Jak się nauczyć** w większości kodów Q nie ma zbyt wiele logiki i schematów. Na początku o tym nie wiedziałem i próbowałem te schematy znaleźć, rozpisując je w zeszycie i kreśląc połączenia, porównania. Myślę, że to mi najbardziej pomogło w nauce :) 
 
 
 **Symulacja łączności**
