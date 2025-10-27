@@ -1,7 +1,7 @@
 # Poradnik
 
 > [!NOTE]
-> Fork poradnika kolegi SP5EXT, zmodyfikowany i uaktualniony przez Filipa SP5FLS w marcu 2025.
+> Fork poradnika kolegi [SP5EXT](https://github.com/SP5EXT/), zmodyfikowany i uaktualniony przez Filipa SP5FLS w marcu 2025.
 > Zachęcam do aktualizacji!
 
 - [Poradnik](#poradnik)
@@ -13,8 +13,8 @@
     - [3. Testy](#3-testy)
       - [Moje pro-tipy | SP5FLS](#moje-pro-tipy--sp5fls)
     - [4. Część ustna egzaminu - literowanie i kody Q](#4-część-ustna-egzaminu---literowanie-i-kody-q)
-  - [Przebieg egzaminu - relacja](#przebieg-egzaminu---relacja)
-    - [2025.03 UKE Warszawa | SP5FLS](#202503-uke-warszawa--sp5fls)
+  - [Przebieg egzaminu](#przebieg-egzaminu)
+    - [2025.03 UKE Warszawa | Filip SP5FLS](#202503-uke-warszawa--filip-sp5fls)
     - [2024 UKE Warszawa | relacja znaleziona w internecie](#2024-uke-warszawa--relacja-znaleziona-w-internecie)
   - [Podsumowanie](#podsumowanie)
     - [Podziękowania](#podziękowania)
@@ -134,14 +134,14 @@ Na początku egzaminu losujemy zestaw pytań. W ramach wszystkich zestawów podc
 - przeliterować dwa znaki. Jeden po polsku, drugi po angielsku
 - rozszyfrować znaczenie podanego kodu Q
 - odgadnąć jakim kodem Q można określić podaną wiadomość
-- przeprowadzić symulację łączności*
+- przeprowadzić symulację łączności (*ostatnio brak - patrz niżej*)
 
 **Literowanie**
 
 Tutaj na wstępie mała uwaga mająca wpływ na przebieg egzaminu. O ile przy literowaniu po polsku panuje dowolność, o tyle podczas literowania po angielsku trzeba się ściśle trzymać schematu. 
 Zarówno w sieci jak i w eterze spotkasz się z tym, że dla litery T niektórzy literują "Tomasz" lub "Tadeusz", a dla X "Ksawery" lub "Ksantypa".
 
-**Jak się nauczyć -**napisz dwa-trzy losowe zdania i staraj się je przeliterować w obu alfabetach. Jeśli wybitnie nie idzie (mi nie szło), to literuj na początku na piśmie. Pisanie angażuje więcej neuronów i ułatwia zapamiętywanie.
+**Jak się nauczyć** napisz dwa-trzy losowe zdania i staraj się je przeliterować w obu alfabetach. Jeśli wybitnie nie idzie (mi nie szło), to literuj na początku na piśmie. Pisanie angażuje więcej neuronów i ułatwia zapamiętywanie.
 
 Alternatywnym sposobem nauki jest literowanie tablic rejestracyjnych mijanych pojazdów.
 
@@ -161,9 +161,9 @@ Na szczęście ten nieco żenujący spektakl trwa krótko - schemat znajdziesz w
 Możesz też spojrzeć na [kalendarz zawodów KF](https://sp9cxn.pzk.pl/kalendarz.html) i posłuchać transmisji uczestników. Nie potrzebujesz do tego radia. Transmisji możesz słuchać przez [WebSDR](http://sierraecho.pl/websdr-wykaz-serwerow-w-polsce/).
 
 
-## Przebieg egzaminu - relacja
+## Przebieg egzaminu
 
-### 2025.03 UKE Warszawa | SP5FLS
+### 2025.03 UKE Warszawa | Filip SP5FLS
 
 > [!TIP]
 > Zdawałem egzamin w marcu 2025 w UKE w Warszawie
