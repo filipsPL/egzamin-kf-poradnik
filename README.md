@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > Fork poradnika kolegi [SP5EXT](https://github.com/SP5EXT/), zmodyfikowany i uaktualniony przez Filipa SP5FLS w marcu 2025.
-> Zachęcam do aktualizacji!
+> Zachęcam do aktualizacji poprzez Pull requests albo wiadomości bezpośrednie.
 
 - [Poradnik](#poradnik)
   - [Dwa słowa wstępu](#dwa-słowa-wstępu)
@@ -161,6 +161,8 @@ Możesz też spojrzeć na [kalendarz zawodów KF](https://sp9cxn.pzk.pl/kalendar
 
 
 ## Przebieg egzaminu
+
+Jeśli zdawałeś/aś egzamin, podziel się z nami informacją, jak przebiegał - czy pytania na części pisemnej były z bazy? Co było na egzaminie ustnym? Czy była symulowana łączność?
 
 ### 2025.03 UKE Warszawa | Filip SP5FLS
 
