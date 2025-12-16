@@ -31,12 +31,11 @@ Stworzyłem ten krótki poradnik, żeby ułatwić uzyskanie pozwolenia radiowego
 Często korzystam z darmowych materiałów zrobionych przez innych po godzinach. Ta strona to jedna z moich prób "spłacenia długu" społeczności chcącej dzielić się wiedzą.
 
 Nie jestem ekspertem. Jestem początkującym krótkofalowcem. Egzamin zdałem niecały rok przed utworzeniem tej strony. Istnieje realne prawdopodobnieństwo, że coś gdzieś przekręciłem/źle wytłumaczyłem/wprowadziłem w błąd. 
-Jeśli znalazłeś miejsce do poprawy - [otwórz pull request](https://github.com/SP5EXT/egzamin-kf-poradnik) lub napisz do mnie na adres e-mail `hello (at) sp5ext (kropka) pl`. Postaram się dodać poprawki.
-
-Dostępne do pobrania pliki PDF nie są mojego autorstwa - autorzy wymienieni są w owych plikach. Jeśli jesteś autorem któregoś pliku i życzysz sobie jego usunięcia - daj mi znać.
+Jeśli znalazłeś miejsce do poprawy - [otwórz pull request](https://github.com/SP5EXT/egzamin-kf-poradnik.
 
 
 ### Ile czasu potrzebuję na naukę?
+
 Egzamin jest dosyć prosty, chociaż nie trywialny i trzeba będzie poświęcić trochę czasu na naukę. W zależności od Twojego obecnego ogarnięcia w temacie techniki/elektroniki będziesz potrzebował łącznie 5-15 godzin. 
 
 
@@ -89,7 +88,7 @@ Część testowa egzaminu zawiera 20 pytań podzielonych na 4 sekcje. Aby zdać 
 - Czas egzaminu to 20 minut, ale dobrze przygotowana osoba odpowiada na wszystkie pytania w 2 minuty.
 
 
-#### Moje pro-tipy | SP5FLS
+### Pro-tipy
 
 > [!TIP]
 > tl;dr robić testy
