@@ -4,6 +4,8 @@
 > Fork poradnika kolegi [SP5EXT](https://github.com/SP5EXT/), zmodyfikowany i uaktualniony przez Filipa SP5FLS w marcu 2025.
 > Zachęcam do aktualizacji poprzez Pull requests albo wiadomości bezpośrednie.
 
+[![Check Markdown links](https://github.com/filipsPL/egzamin-kf-poradnik/actions/workflows/check_links.yml/badge.svg)](https://github.com/filipsPL/egzamin-kf-poradnik/actions/workflows/check_links.yml)
+
 - [Poradnik](#poradnik)
   - [Dwa słowa wstępu](#dwa-słowa-wstępu)
     - [Ile czasu potrzebuję na naukę?](#ile-czasu-potrzebuję-na-naukę)
@@ -31,12 +33,12 @@ Stworzyłem ten krótki poradnik, żeby ułatwić uzyskanie pozwolenia radiowego
 Często korzystam z darmowych materiałów zrobionych przez innych po godzinach. Ta strona to jedna z moich prób "spłacenia długu" społeczności chcącej dzielić się wiedzą.
 
 Nie jestem ekspertem. Jestem początkującym krótkofalowcem. Egzamin zdałem niecały rok przed utworzeniem tej strony. Istnieje realne prawdopodobnieństwo, że coś gdzieś przekręciłem/źle wytłumaczyłem/wprowadziłem w błąd. 
-Jeśli znalazłeś miejsce do poprawy - [otwórz pull request](https://github.com/SP5EXT/egzamin-kf-poradnik.
+Jeśli znalazłeś miejsce do poprawy - otwórz [pull request](https://github.com/filipsPL/egzamin-kf-poradnik/pulls).
 
 
 ### Ile czasu potrzebuję na naukę?
 
-Egzamin jest dosyć prosty, chociaż nie trywialny i trzeba będzie poświęcić trochę czasu na naukę. W zależności od Twojego obecnego ogarnięcia w temacie techniki/elektroniki będziesz potrzebował łącznie 5-15 godzin. 
+Egzamin jest dosyć prosty, chociaż nie trywialny i trzeba będzie poświęcić trochę czasu na naukę. W zależności od Twojego obecnego ogarnięcia w temacie techniki/elektroniki/fizyki będziesz potrzebował łącznie 5-15 godzin. 
 
 
 ## Nauka
@@ -119,6 +121,7 @@ NVUCK UWSFT FHQJX ZYJRY BNLTB BPTAA QOJEG DMYTI
 
 ![websdr](obrazki/obrazek-README-1.png)
 
+- schematy urządzeń odbiorczych i nadawczych. Wszystkie schematy da się sprowadzić do trzech-czterech wspólnych typów/grup, w których te same elementy występują w analogicznych miejscach schematów.
 
 ### 4. Część ustna egzaminu - literowanie i kody Q
 
